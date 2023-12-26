@@ -5,5 +5,3 @@ class Jugador():
         self.radio = radio
         self.direccion = direccion
         self.entidad = entidad
-
-
